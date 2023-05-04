@@ -1,0 +1,15 @@
+/Users/Yuriy/Documents/C#/Seminar/Seminar_3/HomeWork/obj/Debug/net6.0/HomeWork.csproj.AssemblyReference.cache
+/Users/Yuriy/Documents/C#/Seminar/Seminar_3/HomeWork/obj/Debug/net6.0/HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Yuriy/Documents/C#/Seminar/Seminar_3/HomeWork/obj/Debug/net6.0/HomeWork.AssemblyInfoInputs.cache
+/Users/Yuriy/Documents/C#/Seminar/Seminar_3/HomeWork/obj/Debug/net6.0/HomeWork.AssemblyInfo.cs
+/Users/Yuriy/Documents/C#/Seminar/Seminar_3/HomeWork/obj/Debug/net6.0/HomeWork.csproj.CoreCompileInputs.cache
+/Users/Yuriy/Documents/C#/Seminar/Seminar_3/HomeWork/bin/Debug/net6.0/HomeWork
+/Users/Yuriy/Documents/C#/Seminar/Seminar_3/HomeWork/bin/Debug/net6.0/HomeWork.deps.json
+/Users/Yuriy/Documents/C#/Seminar/Seminar_3/HomeWork/bin/Debug/net6.0/HomeWork.runtimeconfig.json
+/Users/Yuriy/Documents/C#/Seminar/Seminar_3/HomeWork/bin/Debug/net6.0/HomeWork.dll
+/Users/Yuriy/Documents/C#/Seminar/Seminar_3/HomeWork/bin/Debug/net6.0/HomeWork.pdb
+/Users/Yuriy/Documents/C#/Seminar/Seminar_3/HomeWork/obj/Debug/net6.0/HomeWork.dll
+/Users/Yuriy/Documents/C#/Seminar/Seminar_3/HomeWork/obj/Debug/net6.0/refint/HomeWork.dll
+/Users/Yuriy/Documents/C#/Seminar/Seminar_3/HomeWork/obj/Debug/net6.0/HomeWork.pdb
+/Users/Yuriy/Documents/C#/Seminar/Seminar_3/HomeWork/obj/Debug/net6.0/HomeWork.genruntimeconfig.cache
+/Users/Yuriy/Documents/C#/Seminar/Seminar_3/HomeWork/obj/Debug/net6.0/ref/HomeWork.dll
